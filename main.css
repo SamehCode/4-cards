@@ -120,3 +120,16 @@
     height: 50px;
     vertical-align: middle;
 }
+
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    position: absolute;
+    right: 30px;
+    font-weight: bold;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
